@@ -1,0 +1,10 @@
+---
+entry1:
+  bucket: my-bucket-1
+  tags:
+    tag_one: 1
+    tag_two: 2
+entry2:
+  bucket: my-bucket-2
+  tags:
+     tag_one: uno
